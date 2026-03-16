@@ -17,3 +17,7 @@ This includes:
 
 The Holy Spirit can help you distinguishinggood from evil.
 God bless you <3
+
+## contributing
+
+Files are indexed via [Shamua](https://github.com/biblecomputer/shamua)
